@@ -7,6 +7,8 @@ authors = ["mmfahey <mmfahey92@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 selenium = "^4.1.3"
+SQLAlchemy = "^1.4.35"
+Kivy = "^2.1.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
